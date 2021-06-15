@@ -30,4 +30,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2021 waterplea <alexander@inkin.ru>
+MIT License. Copyright (c) 2021 Alex Inkin
