@@ -1,6 +1,6 @@
 # well-done-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that A bot to congratulate merged PRs Earthworm Jim style
+> A bot to congratulate merged PRs Earthworm Jim style
 
 ## Setup
 
