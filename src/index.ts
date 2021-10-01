@@ -7,7 +7,7 @@ export = (app: Probot) => {
     }
 
     const comment = context.issue({
-      body: "[!['Well done'](https://yt-embed.herokuapp.com/embed?v=tAhJMRk2vHA)](https://www.youtube.com/watch?v=tAhJMRk2vHA 'Well done')",
+      body: "[!['Well done'](https://raw.githubusercontent.com/waterplea/well-done-bot/main/well-done.png)](https://www.youtube.com/watch?v=tAhJMRk2vHA 'Well done')",
     });
 
     return context.octokit.issues.createComment(comment);
